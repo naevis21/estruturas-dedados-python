@@ -1,1 +1,1 @@
-# estruturas-dedados-python
+# estruturas de dados em python
